@@ -1,3 +1,3 @@
 # hello-world
-Testando
+Testando.
 Testando mais.
